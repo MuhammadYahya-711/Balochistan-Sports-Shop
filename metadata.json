@@ -1,0 +1,6 @@
+{
+  "name": "Balochistan Sports Shop",
+  "description": "Premium sports and sporting goods retail store in Quetta, Pakistan. Football, cricket, sportswear, footwear, gym equipment, and athletic gear.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

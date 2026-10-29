@@ -1,0 +1,49 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --color-obsidian: #101214;
+    --color-charcoal: #1B1F23;
+    --color-electric-lime: #C6F135;
+    --color-performance-orange: #FF642D;
+    --color-muted-grey: #747B83;
+    --color-border-grey: #E2E5E8;
+    --color-light-grey: #F4F5F6;
+  }
+
+  body {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    color: #101214;
+    background-color: #F4F5F6;
+    overflow-x: hidden;
+  }
+
+  h1, h2, h3, h4, h5, h6, .font-heading {
+    font-family: 'Sora', 'Inter', sans-serif;
+  }
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #1B1F23;
+}
+::-webkit-scrollbar-thumb {
+  background: #363C44;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #C6F135;
+}
+
+/* Diagonal athletic accents */
+.clip-diagonal {
+  clip-path: polygon(0 0, 100% 0, 95% 100%, 0% 100%);
+}
+
+.clip-badge {
+  clip-path: polygon(0 0, 100% 0, 88% 100%, 0% 100%);
+}

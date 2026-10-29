@@ -1,0 +1,864 @@
+MASTER PROMPT — BALOCHISTAN SPORTS SHOP | PREMIUM SPORTS E-COMMERCE WEBSITE
+
+Act as a world-class UI/UX designer, senior full-stack web developer, e-commerce architect, brand designer, and conversion optimization specialist. Your mission is to design, develop, and deliver a complete, premium, fully responsive website for Balochistan Sports Shop in one complete build using Google AI Studio or the connected AI website-building environment.
+
+Study both uploaded reference images carefully before beginning. Use them as inspiration for the overall premium sports-retail aesthetic, layout, typography, navigation, product merchandising, promotional banners, category cards, color contrast, spacing, photography, and visual polish. Create an original identity for Balochistan Sports Shop. Never copy the reference brands, logos, exact promotional artwork, copyrighted wording, or distinctive brand identities.
+
+The finished result must be a genuine, functional website that can be exported with its complete source code and deployed on Hostinger. Do not deliver merely a mockup, static screenshot, unfinished template, or nonfunctional preview.
+
+1. BUSINESS INFORMATION
+
+Use these business details accurately throughout the website.
+
+- Business name: Balochistan Sports Shop
+- Business category: Sports and sporting goods retail
+- Contact number: 03491232756
+- Address: 52Q7+JGQ, Prince Road, Quetta, Pakistan
+- Country: Pakistan
+- Currency: Pakistani Rupee (PKR)
+- Customer rating information supplied: 4.5 stars and 172. Do not describe 172 as revenue. If the source confirms it represents the number of reviews, display it as 4.5/5 from 172 reviews. Otherwise, omit the review count.
+- Primary market: Quetta and surrounding areas, with the website structured to support broader Pakistani customers.
+
+Do not invent business opening hours, delivery guarantees, product prices, discount percentages, product stock, testimonials, certifications, customer statistics, or shipping policies. Use editable sample catalogue content only when necessary to build and demonstrate the storefront, and clearly make it replaceable with the shop's actual information.
+
+2. OVERALL CREATIVE DIRECTION
+
+Create an original, premium sports e-commerce experience that combines the strongest visual characteristics of the two supplied references:
+
+- The comprehensive retail layout, category sidebar, broad product selection, promotional strip, multiple merchandising sections, and information-rich footer of the first reference.
+- The striking athletic hero banner, dark cinematic photography, energetic typography, vivid lime accents, clean product cards, and bold category imagery of the second reference.
+
+The website should feel like an established professional sports retailer rather than a generic template or a basic local business page.
+
+The design should communicate athletic performance, reliability, quality, energy, and accessibility.
+
+Use a deliberate visual hierarchy. Large athletic campaign imagery should attract attention, while products, prices, category links, and purchase actions remain easy to understand.
+
+Avoid overcrowding the interface, excessive gradients, random decorative elements, generic AI-dashboard layouts, and unnecessary animation.
+
+3. ORIGINAL BRANDING AND DESIGN SYSTEM
+
+Create a distinctive visual identity for Balochistan Sports Shop.
+
+Color palette
+
+Use this coordinated palette:
+
+- Obsidian black: "#101214"
+- Deep charcoal: "#1B1F23"
+- Athletic white: "#FFFFFF"
+- Cool light grey: "#F4F5F6"
+- Electric lime: "#C6F135"
+- Performance orange: "#FF642D"
+- Muted grey: "#747B83"
+- Subtle border grey: "#E2E5E8"
+
+Use white and light grey for the main shopping surfaces, charcoal and black for navigation, campaign banners, and footer sections, electric lime for prominent actions and highlights, and orange sparingly for sale labels and urgency.
+
+Maintain accessible text contrast. Do not use every accent color simultaneously in every section.
+
+Typography
+
+Use a modern, bold sports-inspired font pairing.
+
+- Headings: Sora, Space Grotesk, or a comparable geometric sans-serif.
+- Body text: Inter or a comparable highly readable sans-serif.
+- Prices and product metadata: clean, compact sans-serif typography.
+- Campaign headings: bold, uppercase typography with carefully controlled line breaks and optional subtle letter spacing.
+
+Use a consistent type scale, clear heading hierarchy, readable body text, and comfortable spacing. Load fonts reliably and provide system fallbacks.
+
+Logo
+
+Design an original logo featuring a distinctive athletic symbol and the name “Balochistan Sports Shop.”
+
+The logo should work on dark and light backgrounds, remain legible at small sizes, and look professional in the desktop header, mobile navigation, and footer.
+
+Use a custom-designed vector or CSS-based symbol where practical. Do not imitate the logos shown in the references.
+
+4. HEADER AND NAVIGATION
+
+Build a polished, multi-level shopping header inspired by the references.
+
+Top announcement strip
+
+Create a narrow charcoal or black strip featuring a concise announcement, such as:
+
+“YOUR GAME. YOUR GEAR. YOUR STORE.”
+
+Include a small lightning or athletic icon and a subtle accent color.
+
+Make the announcement editable. Do not promise a discount or free shipping unless the business confirms that offer.
+
+Main header
+
+Create a prominent desktop header containing:
+
+- Original Balochistan Sports Shop logo.
+- Wide product search bar with search icon.
+- Account or customer-help link where appropriate.
+- Wishlist icon.
+- Shopping cart icon with a live item-count badge.
+
+Use a clean horizontal arrangement with generous spacing and clear alignment.
+
+The search bar should support actual product searching within the available catalogue.
+
+Category navigation
+
+Under the main header, create a clean navigation bar with categories such as:
+
+- Home
+- Football
+- Cricket
+- Sportswear
+- Footwear
+- Gym Equipment
+- Team Kits
+- Accessories
+- All Products
+- Contact
+
+Use a suitable active-state indicator, tasteful hover effects, and accessible dropdowns where useful.
+
+On desktop, optionally include an “All Categories” menu that opens a well-organized category panel with small icons.
+
+On mobile, replace the desktop navigation with a compact menu button and a well-designed drawer or expandable menu. Keep search and cart access easy.
+
+The header may become sticky while scrolling, provided it does not obscure content or consume excessive mobile screen space.
+
+5. HERO SECTION — HIGH-IMPACT SPORTS CAMPAIGN
+
+Make the hero the visual centerpiece of the homepage.
+
+Create a large, cinematic, edge-to-edge or generously contained hero banner inspired by the dramatic athlete photography in the second reference.
+
+Layout
+
+On desktop:
+
+- Use a wide landscape image with a darkened or carefully graded background.
+- Position the campaign headline on the left.
+- Position a high-quality athletic subject on the right or integrated into the background.
+- Use a balanced composition with sufficient negative space for text.
+- Add a subtle diagonal motion graphic, geometric athletic lines, or lime accent shapes.
+- Keep text legible against the image.
+
+Suggested original copy
+
+Eyebrow: “BUILT FOR EVERY CHALLENGE”
+
+Main headline:
+
+“GEAR UP.
+
+PLAY YOUR BEST.”
+
+Supporting text:
+
+“Discover sportswear, equipment, and everyday essentials for your next performance.”
+
+Primary CTA: “EXPLORE PRODUCTS”
+
+Secondary CTA: “SHOP CATEGORIES”
+
+Make both buttons functional. The primary button should navigate to the product catalogue; the secondary button should scroll to the category section.
+
+The wording must remain editable.
+
+Do not reproduce the exact campaign slogans, composition, or artwork of the references.
+
+Hero imagery
+
+Generate or source high-quality, appropriately licensed sports photography when supported. Feature realistic athletic subjects and appropriate equipment, with strong lighting, cinematic depth, and a premium commercial-photography finish.
+
+Potential subjects include football training, cricket practice, running, strength training, and team sports.
+
+Use original generated imagery rather than copied campaign banners from other retailers.
+
+If the environment supports image generation, create the required assets and incorporate them into the website. If it does not, use verified, appropriately licensed remote images or local assets that can be exported with the project. Never leave empty image boxes or use unrelated placeholder imagery.
+
+Provide suitable alternative text and optimized image sizes.
+
+6. TRUST AND SERVICE BENEFITS STRIP
+
+Immediately below the hero, add a compact service-benefits row with four items.
+
+Suggested categories:
+
+- Quality Sports Gear
+- Easy Ordering
+- Customer Support
+- Convenient Shopping
+
+Use clean line icons, concise labels, and restrained dividers.
+
+Do not claim verified authenticity, free shipping, guaranteed delivery, or a particular returns period without confirmation from the business.
+
+On mobile, allow the benefits to wrap or form a horizontally scrollable row with clear indicators.
+
+7. SHOP BY CATEGORY
+
+Create a prominent category section with the heading:
+
+“FIND YOUR GAME”
+
+Supporting text:
+
+“Explore equipment and essentials for your favourite sport.”
+
+Display six to eight visually appealing category cards, adapting the exact number to the actual available catalogue.
+
+Recommended categories:
+
+1. Football
+2. Cricket
+3. Sportswear
+4. Sports Shoes
+5. Gym Equipment
+6. Team Kits
+7. Training Accessories
+8. Other Sports
+
+Each card should include:
+
+- A relevant, high-quality sports photograph or product image.
+- A readable category name.
+- A subtle dark overlay where necessary.
+- A small arrow or “Explore” link.
+- Tasteful hover animation and image zoom.
+
+Use a balanced grid with consistent card heights, image ratios, corner radii, and spacing.
+
+Every category card must navigate to its relevant product listing or filtered catalogue. Do not make decorative cards appear clickable when they have no working destination.
+
+8. FEATURED PRODUCTS AND NEW ARRIVALS
+
+Create a professional product merchandising area inspired by the product grids in the first reference.
+
+Use a section heading such as “FEATURED SPORTS GEAR,” followed by a short supporting sentence and a “VIEW ALL PRODUCTS” link.
+
+Include catalogue groupings such as:
+
+- New Arrivals
+- Best Sellers
+- Football Essentials
+- Cricket Equipment
+- Sportswear
+- Training Accessories
+
+Only display groupings that can be supported by the available product data.
+
+Product card design
+
+Each card should include:
+
+- High-quality product image.
+- Product name.
+- Product category.
+- Actual price in PKR.
+- Optional previous price only when a real discount is configured.
+- Optional verified review information.
+- Availability or stock status when connected to real inventory.
+- Wishlist button.
+- “VIEW DETAILS” or “ADD TO CART” action.
+- Optional “NEW” or “SALE” badge when factually applicable.
+
+Use clean white or light-grey cards with subtle borders, restrained shadows, and consistent image presentation.
+
+On desktop, show approximately four to six products per row depending on available width. On tablets, use two to four columns; on mobile, use two columns where product cards remain readable, switching to one column only when necessary.
+
+Provide a sensible fallback image for missing catalogue assets, but do not fill the live storefront with generic placeholders. Ensure the final sample catalogue has appropriate, relevant imagery.
+
+Product functionality
+
+Implement working product cards and product-detail views.
+
+Include:
+
+- Product name, description, images, price, and category.
+- Available sizes or variants when relevant.
+- Quantity selection.
+- Add-to-cart functionality.
+- Wishlist functionality.
+- Related products.
+- Clear feedback when a product is added to the cart.
+
+If actual product data is not available, use a clearly editable demonstration catalogue. Never present invented prices or availability as verified information from the business.
+
+9. PROMOTIONAL CAMPAIGN BANNER
+
+Create a bold promotional banner inspired by the flash-sale strip in the first reference.
+
+Use a dark sports-photography background with vivid lime or orange accents, strong typography, and a clear CTA.
+
+Suggested headline:
+
+“READY FOR YOUR NEXT CHALLENGE?”
+
+Supporting copy:
+
+“Discover gear for training, competition, and everyday play.”
+
+CTA: “EXPLORE THE COLLECTION”
+
+Make the banner visually striking without overwhelming the homepage.
+
+Do not invent discounts, countdowns, limited-stock claims, or sale deadlines. If the business later provides a genuine promotion, make the banner content editable through a centralized configuration.
+
+10. SPORT-SPECIFIC FEATURED SECTIONS
+
+Build two or three visually distinct promotional sections highlighting relevant sports.
+
+Football collection
+
+Use dynamic football photography and a strong heading:
+
+“FOR THE LOVE OF FOOTBALL”
+
+Showcase relevant products such as footballs, boots, jerseys, socks, and training accessories when available.
+
+CTA: “SHOP FOOTBALL”
+
+Cricket collection
+
+Use energetic cricket imagery and the heading:
+
+“BUILT FOR THE NEXT INNINGS”
+
+Showcase bats, balls, protective gear, team clothing, and other available cricket equipment.
+
+CTA: “SHOP CRICKET”
+
+Training and fitness
+
+Use premium gym and training imagery with the heading:
+
+“MAKE EVERY SESSION COUNT”
+
+Show relevant sportswear, training accessories, and fitness equipment.
+
+CTA: “EXPLORE TRAINING GEAR”
+
+Give each section a distinct image composition while maintaining the same brand identity.
+
+All CTA buttons must lead to relevant catalogue categories or product filters.
+
+11. BRAND AND SERVICE VALUE SECTION
+
+Create a refined section explaining why customers should explore Balochistan Sports Shop.
+
+Use three or four concise value propositions, such as:
+
+- Sports Essentials in One Place
+- Options for Different Sports
+- Practical Gear for Training and Play
+- Local Shopping in Quetta
+
+Use clean icons, concise copy, and consistent spacing.
+
+Do not invent customer testimonials, awards, partnerships, certifications, or performance statistics.
+
+If the supplied 4.5-star rating and 172 reviews can be verified, display the rating accurately and link to its source where possible. Otherwise, leave the review count unpublished until confirmed.
+
+12. CUSTOMER REVIEWS
+
+Create a review section that can display genuine customer feedback when it becomes available.
+
+Use a heading such as:
+
+“WHAT CUSTOMERS SAY”
+
+The section should support:
+
+- Customer name or approved display name.
+- Review text.
+- Rating.
+- Review date where available.
+
+Do not fabricate customer reviews or present AI-generated testimonials as genuine.
+
+When no verified reviews are available, display a neutral message inviting customers to contact the shop or provide feedback, or omit the section until real reviews can be added.
+
+13. OPTIONAL NEWSLETTER SECTION
+
+Create a visually polished newsletter section near the bottom of the homepage.
+
+Suggested heading:
+
+“STAY IN THE GAME”
+
+Supporting text:
+
+“Get updates about new arrivals, sports essentials, and shop announcements.”
+
+Include an email field and a clear subscribe button.
+
+The form must validate email input and show understandable success or error messages. Connect it to a real email-marketing service or backend if credentials and integration support are available.
+
+If no backend is configured, clearly treat the feature as requiring setup rather than falsely claiming that subscriptions have been saved.
+
+Include appropriate consent language and a privacy-policy link.
+
+14. CONTACT AND LOCATION SECTION
+
+Create a professional contact section with the business's actual information.
+
+Display:
+
+Balochistan Sports Shop
+
+Phone: 03491232756
+
+Address: 52Q7+JGQ, Prince Road, Quetta, Pakistan
+
+Add functional actions:
+
+- “CALL THE SHOP” using a "tel:" link.
+- “GET DIRECTIONS” using a map link based on the supplied address.
+- “CONTACT US” linking to the contact page or working contact form.
+
+Use a map embed only when the correct location can be resolved. Do not invent coordinates or mark an unverified location.
+
+Provide a contact form with name, phone or email, subject, and message fields. Validate inputs and implement real message delivery through a configured backend or email service. If credentials are missing, explain that configuration is needed and do not claim that messages have been delivered.
+
+15. COMPLETE PRODUCT CATALOGUE
+
+Build a dedicated shop page, not just a homepage.
+
+Include:
+
+- Product search.
+- Category filtering.
+- Price sorting when real prices are available.
+- Alphabetical sorting where appropriate.
+- Newest or featured sorting when supported by catalogue data.
+- Pagination or “Load More” functionality.
+- Responsive product grid.
+- Empty-search and no-results states.
+- Clear filter controls.
+- Product detail navigation.
+
+The product catalogue should be driven by a centralized, editable data structure rather than hardcoded into multiple components.
+
+Make it easy for a beginner to replace demonstration products, upload actual images, edit prices, and change categories.
+
+16. SHOPPING CART AND ORDERING
+
+Implement a functional shopping cart.
+
+The cart should support:
+
+- Adding products.
+- Removing products.
+- Updating quantities.
+- Calculating subtotals accurately.
+- Displaying selected variants.
+- Showing an empty-cart state.
+- Preserving cart contents between page visits where technically appropriate.
+- Clear checkout or ordering actions.
+
+Do not present an order as completed until the relevant backend or ordering service confirms success.
+
+WhatsApp ordering
+
+Because this is a local sports retailer, provide a convenient WhatsApp ordering option where supported.
+
+Use the supplied phone number and construct the appropriate international number for Pakistan, removing the leading domestic zero: "923491232756".
+
+The WhatsApp action should open a properly formatted message containing the selected product or cart summary, quantities, variants, and estimated subtotal.
+
+Clearly state that final prices, availability, delivery arrangements, and order acceptance must be confirmed by the shop.
+
+Do not imply that opening WhatsApp automatically submits or confirms an order.
+
+Checkout
+
+Create a professional checkout interface with customer contact details, delivery address, order summary, and delivery or payment options only where genuinely supported.
+
+Do not invent online payment integrations, delivery coverage, shipping prices, or payment-on-delivery availability.
+
+If a payment provider is configured, integrate it securely using its official supported methods. Never expose secret API keys in frontend code.
+
+If a full payment backend is unavailable, implement a transparent order-request flow or WhatsApp-based ordering and clearly label it as such.
+
+17. WISHLIST AND CUSTOMER ACCOUNT
+
+Provide a functional wishlist that allows customers to save and remove products.
+
+Where appropriate, support account registration, sign-in, and order history through a properly configured authentication service.
+
+Do not add fake login flows that accept credentials without securely authenticating users.
+
+If authentication is not configured, the storefront and guest shopping flow must still work.
+
+Use secure session handling and avoid collecting unnecessary personal information.
+
+18. HEADER SEARCH FUNCTIONALITY
+
+Make search genuinely useful.
+
+It should:
+
+- Search product names and categories.
+- Match partial terms.
+- Display appropriate results.
+- Provide a no-results message.
+- Allow customers to open product details from results.
+- Work with keyboard navigation and on mobile.
+
+Use a small search-results dropdown on desktop and an accessible expanded search interface on mobile.
+
+Do not leave the search field as a decorative element.
+
+19. FOOTER DESIGN
+
+Create a premium, dark charcoal or black footer inspired by the references.
+
+Include:
+
+Brand column
+
+- Original logo.
+- Short business description.
+- Contact phone.
+- Address.
+
+Shop
+
+- All Products
+- Football
+- Cricket
+- Sportswear
+- Footwear
+- Accessories
+
+Customer Support
+
+- Contact Us
+- FAQs
+- Ordering Information
+- Shipping Policy, if confirmed
+- Returns Policy, if confirmed
+
+Information
+
+- About Us
+- Privacy Policy
+- Terms and Conditions
+
+Social links
+
+Include social media icons only for verified or configurable business profiles. Do not invent profile URLs.
+
+Finish with a clean copyright line showing the current year dynamically and the business name.
+
+Use consistent alignment, legible text, accessible links, and a responsive column layout.
+
+20. ADDITIONAL PAGES
+
+Create the following complete, navigable pages:
+
+1. Home
+2. Shop / All Products
+3. Category Listings
+4. Product Details
+5. Shopping Cart
+6. Checkout or Order Request
+7. Wishlist
+8. About Us
+9. Contact Us
+10. Frequently Asked Questions
+11. Privacy Policy
+12. Terms and Conditions
+13. Custom 404 / Not Found page
+
+Policy pages must contain reasonable, editable draft content appropriate to the website and must not make unsupported legal or operational claims.
+
+Use a consistent design system across all pages.
+
+21. ANIMATIONS AND MICRO-INTERACTIONS
+
+Use refined, performance-conscious animation throughout the website.
+
+Implement where appropriate:
+
+- Smooth anchor scrolling.
+- Subtle hero text entrance.
+- Gentle image reveal.
+- Product-card hover lift.
+- Smooth image zoom on hover.
+- Animated button transitions.
+- Wishlist state changes.
+- Cart badge updates.
+- Dropdown transitions.
+- Navigation drawer animations.
+- Scroll-triggered section reveals.
+- Subtle accent-line animations.
+- Loading skeletons for asynchronous content.
+
+Keep motion restrained and purposeful. Do not animate every element.
+
+Respect the user's reduced-motion preference. Ensure animations do not delay navigation, block interaction, cause layout shifts, or impair accessibility.
+
+Avoid excessive parallax, distracting looping effects, and heavy animation libraries unless they are genuinely beneficial.
+
+22. RESPONSIVE DESIGN
+
+Build and test the entire website across:
+
+- Large desktop screens.
+- Standard laptop screens.
+- Tablets.
+- Mobile phones.
+- Narrow mobile screens.
+
+Use a mobile-first responsive approach.
+
+Desktop:
+
+- Wide hero imagery.
+- Full navigation.
+- Multi-column product grids.
+- Spacious merchandising sections.
+
+Tablet:
+
+- Adapted navigation.
+- Balanced category grids.
+- Readable banners and product cards.
+
+Mobile:
+
+- Compact header.
+- Easy-to-use search and cart.
+- Responsive hero with carefully cropped imagery.
+- Two-column product grids where practical.
+- Touch-friendly controls.
+- Collapsible menus.
+- Stacked promotional sections.
+- Properly arranged footer.
+- No horizontal overflow.
+
+Use responsive typography, fluid spacing, appropriate image aspect ratios, and CSS breakpoints.
+
+Do not simply shrink the desktop layout. Recompose sections for smaller screens when needed.
+
+23. TECHNICAL ARCHITECTURE
+
+Choose a reliable technology stack compatible with the available Google AI Studio environment and the intended Hostinger deployment.
+
+Prefer a maintainable React-based application using TypeScript and a modern, supported build system if the environment permits it.
+
+Use:
+
+- Reusable components.
+- Clear project structure.
+- Centralized product data.
+- Consistent styling tokens.
+- Accessible semantic HTML.
+- Type-safe product and cart models.
+- Proper routing.
+- Reusable buttons, cards, forms, and navigation.
+- Clear loading, empty, and error states.
+
+Use a suitable styling system such as Tailwind CSS or clean modular CSS, depending on the environment.
+
+Do not introduce unnecessary dependencies or services.
+
+If the environment produces a different supported stack, use the most reliable compatible implementation rather than forcing an incompatible framework.
+
+Backend and database
+
+If the environment supports backend integration, structure the application to support product data, orders, customer inquiries, and inventory through a secure database or API.
+
+Keep configuration separate from application logic.
+
+Do not assume that Supabase, Firebase, a payment gateway, or any other external service has been configured.
+
+If an external service is needed, provide a clear setup path and environment-variable template.
+
+Never expose database service-role keys, secret API credentials, or private tokens in client-side code.
+
+Persistence
+
+Use appropriate persistence for the cart and wishlist. Guest cart persistence may use local storage, while authenticated customer data and confirmed orders should be handled through a secure backend when implemented.
+
+Handle storage failures gracefully.
+
+24. HOSTINGER DEPLOYMENT REQUIREMENTS
+
+The final application must be suitable for deployment on Hostinger.
+
+Before finishing:
+
+- Provide the complete source code.
+- Include all required application files.
+- Include a correct "package.json" and lockfile when applicable.
+- Include the build configuration.
+- Include routing configuration where required.
+- Include an ".env.example" file containing variable names only, never real secrets.
+- Include the required assets and fonts or reliable font-loading configuration.
+- Include a README with setup, development, build, and deployment instructions.
+- Identify the required Node.js version if applicable.
+- Document all external service configuration.
+- Ensure production builds work without development-only tools.
+- Configure page routing and refresh behavior correctly for the selected hosting environment.
+- Avoid dependencies on temporary AI Studio preview URLs.
+- Avoid absolute paths that will break after deployment.
+- Avoid missing imports, missing assets, and unresolved dependencies.
+
+If deploying as a static frontend, verify that all public-facing pages work correctly with the supported hosting configuration. If a backend is required, clearly document where and how it must be deployed.
+
+Do not claim that the website is live on Hostinger unless it has actually been deployed and verified.
+
+25. SEO AND PERFORMANCE
+
+Implement strong technical SEO foundations.
+
+Include:
+
+- Unique page titles.
+- Meta descriptions.
+- Canonical URL support where appropriate.
+- Open Graph metadata.
+- Descriptive image alternative text.
+- Semantic headings.
+- Meaningful internal links.
+- A sitemap where appropriate.
+- A robots.txt file.
+- Clean URL structures.
+- Product structured data only when the required information is accurate.
+- Local business structured data using verified business information.
+- Accurate currency and product availability information.
+- A branded favicon.
+
+Optimize performance through:
+
+- Proper image compression.
+- Responsive image sizing.
+- Lazy loading below-the-fold images.
+- Optimized fonts.
+- Minimal unnecessary JavaScript.
+- Code splitting where useful.
+- Efficient component rendering.
+- Layout-shift prevention.
+- Sensible caching where supported.
+
+Do not sacrifice image quality or functionality merely to reduce file sizes.
+
+26. ACCESSIBILITY AND SECURITY
+
+Follow practical WCAG accessibility principles.
+
+Ensure:
+
+- Sufficient color contrast.
+- Keyboard-accessible navigation.
+- Visible focus indicators.
+- Accessible form labels.
+- Meaningful alternative text.
+- Accessible dropdowns and dialogs.
+- Descriptive button names.
+- Appropriate ARIA attributes where necessary.
+- Reduced-motion support.
+- Clear validation messages.
+
+For security:
+
+- Validate user inputs.
+- Sanitize data appropriately.
+- Protect backend endpoints.
+- Use secure authentication where configured.
+- Avoid exposing secrets.
+- Avoid trusting client-side prices for final order totals.
+- Apply server-side validation to important order operations.
+- Do not store passwords in local storage.
+- Do not collect or retain unnecessary customer data.
+
+27. CONTENT AND IMAGE QUALITY
+
+Generate or source the required images for:
+
+- Hero campaign.
+- Football category.
+- Cricket category.
+- Sportswear category.
+- Footwear category.
+- Gym and fitness equipment.
+- Team sports.
+- Training accessories.
+- Promotional banners.
+- Product catalogue.
+
+Images must look coherent as part of one premium sports-retail brand.
+
+Use realistic product photography, natural proportions, clean compositions, and consistent lighting.
+
+Avoid distorted sporting equipment, malformed hands or faces, random logos, gibberish text embedded in images, repeated identical photographs, and mismatched image subjects.
+
+Where text is required in a campaign, create the typography as actual HTML/CSS rather than relying on image-generated text.
+
+Do not use copied logos of sports brands to suggest that the business is an authorized reseller. Only use genuine brand names or logos where appropriate and permitted.
+
+If original image generation is unavailable, use suitable licensed images and keep image URLs or asset paths centralized so the business owner can replace them easily.
+
+Do not finish the build with empty image boxes, broken image URLs, or generic grey rectangles.
+
+28. REQUIRED INTERACTION TESTING
+
+Before declaring the build complete, test the key user journeys.
+
+Verify that:
+
+1. The logo returns to the homepage.
+2. Navigation links open the correct pages.
+3. Category cards open the correct category listings.
+4. Search returns relevant catalogue results.
+5. Product cards open the correct product details.
+6. Quantity and variant selections work where applicable.
+7. Add-to-cart updates the cart.
+8. Cart quantities and subtotals update correctly.
+9. Products can be removed from the cart.
+10. Wishlist actions work.
+11. The WhatsApp order link opens the intended conversation with a correctly formatted message.
+12. Contact links use the supplied phone number.
+13. Map directions use the supplied address.
+14. Forms validate inputs and communicate their actual submission status.
+15. Responsive navigation works on mobile.
+16. Page refreshes and direct navigation work correctly.
+17. Images load correctly.
+18. There are no obvious console errors, broken links, or missing assets.
+19. The production build completes successfully.
+20. The deployment instructions match the actual generated project.
+
+Do not report a test as passed if it has not been executed or verified.
+
+29. FINAL EXECUTION INSTRUCTIONS
+
+Work systematically, but deliver the complete implementation rather than stopping after planning.
+
+Follow this order internally:
+
+1. Analyze both reference images.
+2. Establish the original brand identity and design system.
+3. Build the shared layout and responsive navigation.
+4. Develop the homepage and all merchandising sections.
+5. Create the catalogue, product detail, cart, wishlist, contact, and supporting pages.
+6. Implement the actual available interactions.
+7. Integrate imagery and verify every image.
+8. Add SEO, accessibility, and performance improvements.
+9. Run the available checks and fix errors.
+10. Prepare the complete project for export and Hostinger deployment.
+
+If a required external credential or service is unavailable, build the supported portions completely and document the remaining configuration. Do not silently replace real functionality with fake success messages.
+
+Do not ask me to make unnecessary design decisions. Use your professional judgment to resolve minor design choices consistently. Ask for additional business information only when it is genuinely necessary for a feature that cannot otherwise be implemented honestly.
+
+FINAL QUALITY STANDARD
+
+The finished website should look like a premium sports retailer's real online storefront, with the visual quality of the supplied references, an original brand identity, professional sports photography, polished product cards, bold campaign sections, refined motion, complete responsive behavior, and a genuinely usable shopping experience.
+
+It must be clean, modern, visually memorable, conversion-focused, beginner-manageable, and technically prepared for deployment.
+
+Build the actual website now. Do not stop at a design plan, explanation, screenshot, or prototype. Generate the complete working project, verify what can be verified, and make all source files available for export and deployment on Hostinger.
